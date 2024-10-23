@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Build directories
+dist/
+build/
+.cache/
+public/
+
+# Editor folders and files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Miscellaneous
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Babel cache
+.cache/
+
+# Webpack cache
+.cache/
